@@ -1,5 +1,6 @@
+/* eslint-disable no-undef */
 const todoList = () => {
-  let all = [];
+  all = [];
   const add = (todoItem) => {
     all.push(todoItem);
   };
